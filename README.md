@@ -1,0 +1,1 @@
+Codigo do projeto: https://github.com/brunohendias/cursoVue/tree/master/cli-vue/stock/stock-trader
